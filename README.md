@@ -39,6 +39,8 @@ To get started with these projects, you'll need:
 If you're new to Raspberry Pi, check out our [Setup Guide](setup/headless_setup.md) to prepare your Raspberry Pi for development, including setting up the OS, enabling SSH, and configuring your development environment.
 
 ## 📚 Projects
+
+_**coming soon**...._
 <!-- Explore a variety of projects that demonstrate the power of Raspberry Pi combined with C and C++.
 
 ### Project 1: [Title](link_to_project_1)
