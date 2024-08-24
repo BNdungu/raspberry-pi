@@ -85,7 +85,7 @@ Feel free to reach out if you have any questions, suggestions, or if you'd like 
 
 - **Name:** Ndung'u Ng'ang'a
 - **Email:** ngangan602@gmail.com
-- **GitHub:** [YourGitHubProfile](https://github.com/BNdungu)
+- **GitHub:** [BNdungu](https://github.com/BNdungu)
 
 ---
 
